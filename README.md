@@ -1,5 +1,7 @@
 # labirint 1
-### v.0.1.1
+### Labirint v.0.1.1
+
+Game for NeuralNet "multicolor" edition
 
 ![example](/img/20220121_1.gif)
 
